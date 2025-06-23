@@ -20,7 +20,6 @@ This repository contains a research survey that explores how **Large Language Mo
 - `LLM.pdf` – Full research review paper  
 - Author: **Sri Kalyan Reddy Akiti**  
 - Institution: Texas A&M University - Corpus Christi  
-- Contact: sakiti@islander.tamucc.edu  
 
 ## 📌 Use Case  
 This repository is helpful for students, researchers, and professionals interested in:  
