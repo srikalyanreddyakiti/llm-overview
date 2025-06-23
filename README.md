@@ -28,4 +28,7 @@ This repository is helpful for students, researchers, and professionals interest
 - AI in transportation  
 - NLP applications in real-time systems  
 - Vision + language fusion models  
+## 👨‍💻 Author  
+**Akiti Sri Kalyan Reddy**  
+Data Science and Artificial Intelligence  
 
